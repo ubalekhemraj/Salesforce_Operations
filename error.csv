@@ -1,0 +1,68 @@
+success,created,id,errors,statusCode,message
+False,False,001GC00003dT7tXYAS,"[{'statusCode': 'DELETE_FAILED', 'message': 'Your attempt to delete Edge Communications could not be completed because it is associated with the following cases.: 00001000, 00001017, 00001018\nYour attempt to delete Edge Communications could not be completed because some opportunities in that account were closed won. The opportunities that could not be deleted are shown below.: Edge Emergency Generator, Edge Installation, Edge SLA\n', 'fields': []}]",,
+False,False,001GC00003dT7tYYAS,"[{'statusCode': 'DELETE_FAILED', 'message': 'Your attempt to delete Burlington Textiles Corp of America could not be completed because it is associated with the following cases.: 00001019, 00001020\nYour attempt to delete Burlington Textiles Corp of America could not be completed because some opportunities in that account were closed won. The opportunities that could not be deleted are shown below.: Burlington Textiles Weaving Plant Generator\n', 'fields': []}]",,
+False,False,001GC00003dT7tbYAC,"[{'statusCode': 'DELETE_FAILED', 'message': 'Your attempt to delete Grand Hotels & Resorts Ltd could not be completed because it is associated with the following cases.: 00001007, 00001008, 00001013, 00001014\nYour attempt to delete Grand Hotels & Resorts Ltd could not be completed because some opportunities in that account were closed won. The opportunities that could not be deleted are shown below.: Grand Hotels Generator Installations, Grand Hotels SLA, Grand Hotels Emergency Generators\n', 'fields': []}]",,
+False,False,001GC00003dT7tcYAC,"[{'statusCode': 'DELETE_FAILED', 'message': 'Your attempt to delete United Oil & Gas Corp. could not be completed because it is associated with the following cases.: 00001001, 00001002, 00001021, 00001022, ..., ..., ...\nYour attempt to delete United Oil & Gas Corp. could not be completed because some opportunities in that account were closed won. The opportunities that could not be deleted are shown below.: United Oil SLA, United Oil Installations, United Oil Refinery Generators, United Oil Installations, ..., ...\n', 'fields': []}]",,
+False,False,001GC00003dT7tdYAC,"[{'statusCode': 'DELETE_FAILED', 'message': 'Your attempt to delete Express Logistics and Transport could not be completed because it is associated with the following cases.: 00001003, 00001004, 00001005\nYour attempt to delete Express Logistics and Transport could not be completed because some opportunities in that account were closed won. The opportunities that could not be deleted are shown below.: Express Logistics Standby Generator\n', 'fields': []}]",,
+False,False,001GC00003dT7teYAC,"[{'statusCode': 'DELETE_FAILED', 'message': 'Your attempt to delete University of Arizona could not be completed because it is associated with the following cases.: 00001012\nYour attempt to delete University of Arizona could not be completed because some opportunities in that account were closed won. The opportunities that could not be deleted are shown below.: University of AZ Portable Generators, University of AZ SLA\n', 'fields': []}]",,
+False,False,001GC00003dT7tfYAC,"[{'statusCode': 'DELETE_FAILED', 'message': 'Your attempt to delete United Oil & Gas, UK could not be completed because it is associated with the following cases.: 00001009\n', 'fields': []}]",,
+False,False,001GC00003dT7tgYAC,"[{'statusCode': 'DELETE_FAILED', 'message': 'Your attempt to delete United Oil & Gas, Singapore could not be completed because it is associated with the following cases.: 00001010, 00001011, 00001015\n', 'fields': []}]",,
+False,False,001GC00003dT7thYAC,"[{'statusCode': 'DELETE_FAILED', 'message': 'Your attempt to delete GenePoint could not be completed because it is associated with the following cases.: 00001006, 00001016\nYour attempt to delete GenePoint could not be completed because some opportunities in that account were closed won. The opportunities that could not be deleted are shown below.: GenePoint Standby Generator, GenePoint SLA\n', 'fields': []}]",,
+False,False,001GC00003dWFX4YAO,"[{'statusCode': 'DELETE_FAILED', 'message': 'Your attempt to delete Sample Account for Entitlements could not be completed because it is associated with the following entitlements.: Sample Entitlement\n', 'fields': []}]",,
+False,False,003GC00003yuyP6YAI,,DELETE_FAILED,"Your attempt to delete Ms. Rose Gonzalez could not be completed because it is associated with the following cases.: 00001000
+"
+False,False,003GC00003yuyP7YAI,,DELETE_FAILED,"Your attempt to delete Mr. Sean Forbes could not be completed because it is associated with the following cases.: 00001017, 00001018
+"
+False,False,003GC00003yuyP8YAI,,DELETE_FAILED,"Your attempt to delete Mr. Jack Rogers could not be completed because it is associated with the following cases.: 00001019, 00001020
+"
+False,False,003GC00003yuyPBYAY,,DELETE_FAILED,"Your attempt to delete Mr. Tim Barr could not be completed because it is associated with the following cases.: 00001007, 00001008
+"
+False,False,003GC00003yuyPCYAY,,DELETE_FAILED,"Your attempt to delete Mr. John Bond could not be completed because it is associated with the following cases.: 00001013, 00001014
+"
+False,False,003GC00003yuyPDYAY,,DELETE_FAILED,"Your attempt to delete Ms. Stella Pavlova could not be completed because it is associated with the following cases.: 00001002, 00001021, 00001022, 00001023
+"
+False,False,003GC00003yuyPEYAY,,DELETE_FAILED,"Your attempt to delete Ms. Lauren Boyle could not be completed because it is associated with the following cases.: 00001024, 00001025
+"
+False,False,003GC00003yuyPNYAY,,DELETE_FAILED,"Your attempt to delete Mr. Avi Green could not be completed because it is associated with the following cases.: 00001001
+"
+False,False,003GC00003yuyPFYAY,,DELETE_FAILED,"Your attempt to delete Ms. Babara Levy could not be completed because it is associated with the following cases.: 00001003, 00001004
+"
+False,False,003GC00003yuyPGYAY,,DELETE_FAILED,"Your attempt to delete Mr. Josh Davis could not be completed because it is associated with the following cases.: 00001005
+"
+False,False,003GC00003yuyPHYAY,,DELETE_FAILED,"Your attempt to delete Ms. Jane Grey could not be completed because it is associated with the following cases.: 00001012
+"
+False,False,003GC00003yuyPJYAY,,DELETE_FAILED,"Your attempt to delete Ms. Ashley James could not be completed because it is associated with the following cases.: 00001009
+"
+False,False,003GC00003yuyPKYAY,,DELETE_FAILED,"Your attempt to delete Mr. Tom Ripley could not be completed because it is associated with the following cases.: 00001010
+"
+False,False,003GC00003yuyPLYAY,,DELETE_FAILED,"Your attempt to delete Ms. Liz D'Cruz could not be completed because it is associated with the following cases.: 00001011, 00001015
+"
+False,False,003GC00003yuyPMYAY,,DELETE_FAILED,"Your attempt to delete Ms. Edna Frank could not be completed because it is associated with the following cases.: 00001006, 00001016
+"
+False,False,001GC00003dT7tXYAS,,DELETE_FAILED,"Your attempt to delete Edge Communications could not be completed because it is associated with the following cases.: 00001000, 00001017, 00001018
+Your attempt to delete Edge Communications could not be completed because some opportunities in that account were closed won. The opportunities that could not be deleted are shown below.: Edge Emergency Generator, Edge Installation, Edge SLA
+"
+False,False,001GC00003dT7tYYAS,,DELETE_FAILED,"Your attempt to delete Burlington Textiles Corp of America could not be completed because it is associated with the following cases.: 00001019, 00001020
+Your attempt to delete Burlington Textiles Corp of America could not be completed because some opportunities in that account were closed won. The opportunities that could not be deleted are shown below.: Burlington Textiles Weaving Plant Generator
+"
+False,False,001GC00003dT7tbYAC,,DELETE_FAILED,"Your attempt to delete Grand Hotels & Resorts Ltd could not be completed because it is associated with the following cases.: 00001007, 00001008, 00001013, 00001014
+Your attempt to delete Grand Hotels & Resorts Ltd could not be completed because some opportunities in that account were closed won. The opportunities that could not be deleted are shown below.: Grand Hotels Generator Installations, Grand Hotels SLA, Grand Hotels Emergency Generators
+"
+False,False,001GC00003dT7tcYAC,,DELETE_FAILED,"Your attempt to delete United Oil & Gas Corp. could not be completed because it is associated with the following cases.: 00001001, 00001002, 00001021, 00001022, ..., ..., ...
+Your attempt to delete United Oil & Gas Corp. could not be completed because some opportunities in that account were closed won. The opportunities that could not be deleted are shown below.: United Oil SLA, United Oil Installations, United Oil Refinery Generators, United Oil Installations, ..., ...
+"
+False,False,001GC00003dT7tdYAC,,DELETE_FAILED,"Your attempt to delete Express Logistics and Transport could not be completed because it is associated with the following cases.: 00001003, 00001004, 00001005
+Your attempt to delete Express Logistics and Transport could not be completed because some opportunities in that account were closed won. The opportunities that could not be deleted are shown below.: Express Logistics Standby Generator
+"
+False,False,001GC00003dT7teYAC,,DELETE_FAILED,"Your attempt to delete University of Arizona could not be completed because it is associated with the following cases.: 00001012
+Your attempt to delete University of Arizona could not be completed because some opportunities in that account were closed won. The opportunities that could not be deleted are shown below.: University of AZ Portable Generators, University of AZ SLA
+"
+False,False,001GC00003dT7tfYAC,,DELETE_FAILED,"Your attempt to delete United Oil & Gas, UK could not be completed because it is associated with the following cases.: 00001009
+"
+False,False,001GC00003dT7tgYAC,,DELETE_FAILED,"Your attempt to delete United Oil & Gas, Singapore could not be completed because it is associated with the following cases.: 00001010, 00001011, 00001015
+"
+False,False,001GC00003dT7thYAC,,DELETE_FAILED,"Your attempt to delete GenePoint could not be completed because it is associated with the following cases.: 00001006, 00001016
+Your attempt to delete GenePoint could not be completed because some opportunities in that account were closed won. The opportunities that could not be deleted are shown below.: GenePoint Standby Generator, GenePoint SLA
+"
+False,False,001GC00003dWFX4YAO,,DELETE_FAILED,"Your attempt to delete Sample Account for Entitlements could not be completed because it is associated with the following entitlements.: Sample Entitlement
+"
